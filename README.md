@@ -58,7 +58,7 @@ Fun Fact: I turn coffee ☕ into code.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENGI-X&theme=tokyo-night"/>
 
 </div>
 
@@ -103,7 +103,7 @@ Fun Fact: I turn coffee ☕ into code.
 
 ### ✨ *"Code. Learn. Build. Repeat."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=VENGI-X&style=for-the-badge&color=blueviolet"/>
 
 ⭐ **Thanks for visiting my profile!**
 
