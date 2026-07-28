@@ -14,8 +14,8 @@
 ## 🌌 About Me
 
 ```yaml
-Name: Your Name
-Location: 🌍 Your Country
+Name: Ashish
+Location: 🌍 India
 Role: 💻 Full Stack Developer
 Currently Learning: AI, Cloud, DevOps
 Fun Fact: I turn coffee ☕ into code.
