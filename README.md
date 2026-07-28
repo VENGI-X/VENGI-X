@@ -1,4 +1,4 @@
-# ✨ Hey there, I'm **Your Name** 👋
+# ✨ Hey there, I'm **ASHISH** 👋
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="image-data-analyzer-animation" width="400" />
 </p>
